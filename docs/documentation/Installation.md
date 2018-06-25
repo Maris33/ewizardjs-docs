@@ -19,6 +19,6 @@ After installing the eWizard CLI you have to authorize. For this use the command
 
 * **wiz login**
 
-It will open the page in your default browser where you have to enter the login and password.
+It will open the page in your default browser where you should enter the login and password.
 After succssesful authorization you will see the next page. 
 
